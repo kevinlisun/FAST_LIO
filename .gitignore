@@ -1,4 +1,4 @@
-build
+git abuild
 Log/*.png
 Log/*.txt
 Log/*.csv
